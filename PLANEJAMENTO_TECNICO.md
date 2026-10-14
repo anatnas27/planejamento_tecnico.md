@@ -18,7 +18,7 @@ A descrição oficial do Viagepe será preenchida após a confirmação dos obje
 - Funcionalidades principais: A confirmar.
 - Tecnologias utilizadas: A confirmar.
 
-## 3. Requisitos do Sistema
+# 3. Requisitos do Sistema
 
 # 3.1 Requisitos Funcionais
 
